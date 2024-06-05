@@ -1,12 +1,12 @@
 # React + TypeScript + Vite
-[https://app.netlify.com/sites/soft-gumption-9c61d2/overview]
+[https://soft-gumption-9c61d2.netlify.app/]
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 
 
 #
 Controlador de consumo y propinas.
-[https://app.netlify.com/sites/soft-gumption-9c61d2/overview]
+[https://soft-gumption-9c61d2.netlify.app/]
 Informe:
 #
 React
