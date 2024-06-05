@@ -1,13 +1,13 @@
 # React + TypeScript + Vite
-
+[https://app.netlify.com/sites/soft-gumption-9c61d2/overview]
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 
 
 #
 Controlador de consumo y propinas.
+[https://app.netlify.com/sites/soft-gumption-9c61d2/overview]
 Informe:
-
 #
 React
 En este proyecto, React se ha empleado para desarrollar componentes reutilizables que facilitan la gestión del estado y la interacción con los elementos de la interfaz de usuario. Los componentes como MenuItem, OrderContents, y OrdersTotals permiten manejar de manera eficiente la adición, visualización y eliminación de elementos en un pedido.
